@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>About - My Portfolio</title>
+    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+
+  <body>
+    <header>
+      <nav>
+        <a href="index.html">HOME</a>
+        <a href="about.html">ABOUT ME</a>
+        <a href="contact.html">CONTACT ME</a>
+      </nav>
+    </header>
+
+    <main>
+      <h1>ABOUT ME</h1>
+      <center>
+      <img src="asad.jpg" alt="Asad" width="150" height="150" />
+      </center>
+      <p>
+        I’m a computer science student from Kano State. I enjoy tech, design, video editing, and playing games.
+        I like learning new things, thinking deeply, and solving problems on my own.
+        <br />
+        I’m curious, creative, and I enjoy quiet time. One day, I hope to build my own successful company.
+      </p>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 Abdulrahman Sani Abdulmumin (Asad). All rights reserved.</p>
+      <p>Connect with me:
+        <a href="mailto:asadyan048@gmail.com">Email</a> |
+        <a href="https://github.com/asadyann" target="_blank">GitHub</a> |
+        <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a>
+      </p>
+    </footer>
+  </body>
+</html>
